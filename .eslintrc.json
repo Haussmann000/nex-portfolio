@@ -1,3 +1,6 @@
 {
-  "extends": "next/core-web-vitals"
+  "extends": ["next/core-web-vitals",
+     "next/babel"]
+    //  エラーが出るので追加
+    // https://zenn.dev/shimotaroo/articles/c8f2e751cd7877
 }
