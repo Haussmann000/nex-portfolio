@@ -8,7 +8,7 @@ const Index = () => {
 <Layout>
   <div className={style.hero}>
     <div>
-    <Image src="/Images/index-hero.jpg" alt="hero" layout="fill" objectFit="cover" quality={90} />
+    <Image src="/images/index-hero.jpg" alt="hero" layout="fill" objectFit="cover" quality={90} />
       <h1>
         I' m Abe Hiroki!
       </h1>
